@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age Calculator</title>
+
+    <link rel="icon" type="image/x-icon" href="https://cdn-icons.flaticon.com/png/512/1011/premium/1011863.png?token=exp=1645618678~hmac=1bc1056f83e86c7b0ef67b08c7f40682">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <h1 class="headding">Let's Check,</h1>
+    <h2 class="headding">How much you are old?</h2> 
+
+    <div class="container">
+        <div class="inputs-wrapper">
+            <input type="datetime-local" id="date-input">
+            
+            <button class="btn1" onclick="ageCalculate()">Calculate</button>
+            <button class="btn2" onclick="reset()">Reset</button>
+        </div>
+        <p id="Wrong"></p>
+
+        <div class="output-wrapper">
+            <div>
+                <span id="years">-</span>
+                <p>Years</p>
+            </div>
+
+            <div>
+                <span id="months">-</span>
+                 <p>Months</p>
+            </div>
+
+            <div>
+                <span id="days">-</span>
+                <p>Days</p>
+            </div>
+            
+            <div>
+                <span id="hours">-</span>
+                <p>Hours</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<script src="index.js"></script>
