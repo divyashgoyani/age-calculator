@@ -1,7 +1,4 @@
-# Date Picker
-
-## 🌐 Hosted Link  
-Access the live project here: [datepickerdivyash](https://datepickerdivyash.netlify.app)
+# Age Calculator
 
 ---
 
@@ -14,13 +11,7 @@ A brief description of your project. Example:
 ## 🚀 Features  
 - **Interactive Elements:** Describe a specific feature, e.g., animations or form validation.  
 - **Responsive Design:** Optimized for mobile, tablet, and desktop.  
-- **Lightweight and Fast:** Purely built with vanilla HTML, CSS, and JavaScript.  
-
----
-
-## 📸 Screenshots  
-### Homepage  
-![Homepage Screenshot](https://github.com/divyashgoyani/Library/blob/main/Portfolio/datepicker.png)
+- **Lightweight and Fast:** Purely built with vanilla HTML, CSS, and JavaScript.
 
 ---
 
