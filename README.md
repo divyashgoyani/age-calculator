@@ -3,7 +3,7 @@
 ---
 
 ## 📖 Overview  
-"This project is used for calculate your age in years, in months, in days, in hours"
+"This project is used for calculating your age in years, in months, in days, in hours"
 
 ---
 
